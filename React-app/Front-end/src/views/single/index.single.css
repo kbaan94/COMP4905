@@ -1,0 +1,23 @@
+body{
+    background: black;
+}
+/* .box{
+    display: flex;
+    justify-content: center;
+} */
+.head h2{
+    color: #e7b038;
+    text-align: center;
+}
+.main{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+@media screen and (min-width: 420px) {
+    .box{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+    }
+}
