@@ -1,3 +1,4 @@
+//https://serveanswer.com/questions/redux-store-with-react-is-undefined - code used as template from here
 import App from './App';
 import store from 'store'
 import React from 'react';
