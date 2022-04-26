@@ -1,3 +1,5 @@
+//https://bobbydreamer.com/123-jwt - Templates were taken to use for our jwt helper for access tokens
+
 const JWT = require("jsonwebtoken");
 const createError = require("http-errors");
 const client = require("./init_redis");
